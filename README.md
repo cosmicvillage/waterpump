@@ -2,3 +2,5 @@
 Waterpump discussions
 
 #What are the topics we want to discuss here ?
+## Technical Discussions?
+## Architectural discussion?
